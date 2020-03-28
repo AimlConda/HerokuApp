@@ -1,0 +1,1 @@
+web: gunicorn herokumysitegsm5.wsgi --log-file -
